@@ -1,4 +1,9 @@
 # Hypothesis-Testing-on-Late-Medical-Shipments
+<br><br>
+
+The late_shipments dataset contains supply chain data on the delivery of medical supplies. Each row represents one delivery of a part. The late columns denotes whether or not the part was delivered late. A value of "Yes" means that the part was delivered late, and a value of "No" means the part was delivered on time.
+<br><br>
+
 Z test and t test for two different claims. 
 
 # Scenario 1: 
