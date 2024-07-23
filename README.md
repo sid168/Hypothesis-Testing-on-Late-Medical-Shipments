@@ -6,9 +6,9 @@ The late_shipments dataset contains supply chain data on the delivery of medical
 
 Z test and t test for two different claims. 
 
-# Scenario 1: 
+### Scenario 1: 
 
-# Hypotheses
+### Hypotheses
 ---
 Null Hypothesis (H0): The proportion of late shipments is 6%. Formally, 
 H0:
@@ -19,12 +19,12 @@ HA:
 p≠0.06
 ---
 
-# Scenario 2: 
+### Scenario 2: 
 
-# Why are 6% shipments late? Is weight associated to it?
-# Claim: weight more , shipment late. Weight less, shipment not late
+### Why are 6% shipments late? Is weight associated to it?
+### Claim: weight more , shipment late. Weight less, shipment not late
 ---
-# H0: The mean weight of shipments that weren't late is the same as the mean weight of shipments that were late.
+### H0: The mean weight of shipments that weren't late is the same as the mean weight of shipments that were late.
 ---
-# Ha: The mean weight of shipments that weren't late is less than the mean weight of shipments that were late.
+### Ha: The mean weight of shipments that weren't late is less than the mean weight of shipments that were late.
 ---
